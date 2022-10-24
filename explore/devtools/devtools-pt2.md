@@ -1,0 +1,2 @@
+1. Instead of producing the sum of the two numbers entered, the program was just combining the two numbers
+2. It can be fixed by converting the two numbers which are current stored as strings into numbers when adding or when taking them in.
