@@ -12,7 +12,7 @@
 12. 
     1.  student.name
     2.  student["Grad Year"]
-    3.  
+    3.  student.greeting();
     4.  student["Favorite Teacher"].name
     5.  student.courseLoad[0]
 13. 
